@@ -16,7 +16,7 @@
         ],
         "metrics_collection_interval": 60,
         "resources": ["*"],
-        "totalcpu": false
+        "totalcpu": true
       },
       "disk": {
         "measurement": [
