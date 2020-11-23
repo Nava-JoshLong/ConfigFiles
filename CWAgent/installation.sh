@@ -1,4 +1,4 @@
-yum update -y
+#yum update -y
 yum install -y rpm
 rpm -ivh https://s3.amazonaws.com/amazoncloudwatch-agent/amazon_linux/amd64/latest/amazon-cloudwatch-agent.rpm
 yum install -y collectd
